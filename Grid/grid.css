@@ -1,0 +1,14 @@
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    color: brown;
+}
+
+p {
+    text-align: left;
+    text-transform: none;
+    color: green;
+    padding: 6px;
+    font-size: 125%;
+    font-style: italic;
+}
